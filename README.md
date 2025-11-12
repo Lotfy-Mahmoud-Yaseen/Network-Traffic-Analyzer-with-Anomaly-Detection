@@ -6,5 +6,5 @@ A Python-based tool that monitors network traffic in real time, analyzes packet 
 This is my Graduation Project for my postgraduate diploma in Computer Science at FGSSR, Cairo University.<br />
 I take this opportunity to develop a Networking Tool that allows me to explore new aspects of network security and background processes, and to create a useful tool. Also managing a team of four beginner developers, a leader who guides them to develop a useful tool, depending on Academic principles. <br />
 ##
-#Team Management: 
+# Team Management: 
 Note: It`s tough to get that job done by your team; you have to do it yourself. However, managing a team is a challenge I am trying to solve. 
